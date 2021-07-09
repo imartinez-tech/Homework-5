@@ -69,23 +69,3 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
-
-/* .container {
-  padding: 0in ;
-  display: flex;
-} */
-
-/* .timeslot {
-  padding: 0in;
-  display: flex;
-} */
-/* .container > div{
-  padding: 0in;
-  display: flex;
-  border: 2px solid darkblue;
-  background-color: skyblue;
-  flex: 1 1 auto;
-  width: 100px;
-  height: 60px;
-  border-radius: 0% 20% 20% 0%;
-} */
